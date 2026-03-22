@@ -225,12 +225,12 @@ cat("So dong co so thanh thieu nien:", sum(clients$Teenhome > 2, na.rm = TRUE), 
 # ============================================================================
 
 # Luu du lieu da xu ly dang RData
-save(clients, file = "C:/Users/Binh An/OneDrive/Máy tính/CODER/.vscode/Y3/Phân tích và trực quan dữ liệu/RStudio/Laps/Lap_02/clientsInR.RData")
+save(clients, file = "C:/Users/Binh An/OneDrive/Máy tính/CODER/.vscode/Y3/Phân tích và trực quan dữ liệu/RStudio/Baitap/Data/clientsInR.RData")
 cat("\nDa luu du lieu vao tep clientsInR.RData\n")
 
 # Luu du lieu da xu ly dang CSV
 write.csv(clients, 
-          "C:/Users/Binh An/OneDrive/Máy tính/CODER/.vscode/Y3/Phân tích và trực quan dữ liệu/RStudio/Laps/Lap_02/clients_cleaned.csv", 
+          "C:/Users/Binh An/OneDrive/Máy tính/CODER/.vscode/Y3/Phân tích và trực quan dữ liệu/RStudio/Baitap/Data/clients_cleaned.csv", 
           row.names = FALSE)
 cat("Da luu du lieu da xu ly vao tep clients_cleaned.csv\n")
 

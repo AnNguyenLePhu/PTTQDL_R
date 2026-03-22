@@ -1,0 +1,12 @@
+=== BÁO CÁO PHÂN TÍCH DỮ LIỆU MARKETING ===
+Ngày phân tích: 20535 
+Số lượng khách hàng: 2240 
+Số lượng biến: 33 
+
+--- THỐNG KÊ CHÍNH ---
+Tuổi trung bình: 55.2 tuổi
+Thu nhập trung bình: 52238 Euro
+Chi tiêu trung bình: 606 Euro
+Tỷ lệ phản hồi: 14.91 %
+Kênh mua phổ biến nhất: Store 
+Chiến dịch hiệu quả nhất: AcceptedCmp4 

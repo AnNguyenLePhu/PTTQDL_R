@@ -55,3 +55,4 @@ saveRDS(missCO2, file = "missCO2_data.rds")
 # save(iris, mtcars, file = "multiple_datasets.RData")  
 save(CO2, missCO2, file = "my_workspace.RData")
 # Cách đọc lại: load("my_workspace.RData")
+
